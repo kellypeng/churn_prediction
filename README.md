@@ -1,6 +1,14 @@
-## Case Study
+# Churn Prediction - Ride Sharing Services
 
-Today we are going to use all the skills we have learned to tackle a real problem in industry. The problem
-is churn prediction with a ride-sharing company in San Francisco.
-Since the data is sourced from a real company, we ask you not to share
-the dataset. See more about the problem in [group.md](group.md). 
+Predicted possibility of customer churning, thereby targeting special campaigns to increase retention rate.
+
+
+## Files in src and it's use
+
+
+## Rough timeline
+* First 3 hours: EDA, Feature Engineering
+* Next 3 hours: Model building and deployment
+
+## Credits
+This project would not be possible without the efforts of my fellow teammates Elham Ke, Jianda Zhou and Nikhil Makaram.
