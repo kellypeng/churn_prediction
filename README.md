@@ -1,6 +1,7 @@
 # Churn Prediction - Ride Sharing Services
 
-Predicted possibility of customer churning, thereby targeting special campaigns to increase retention rate.
+Predicted possibility of customer churning, understand what factors are the best predictors for retention, and offer suggestions to operationalize those insights to help Company X. 
+
 
 
 ## Files in src and it's use
