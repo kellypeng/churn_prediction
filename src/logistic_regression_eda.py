@@ -104,11 +104,6 @@ def test_final_model(model):
     print 'test data precision score: ',precision_score(y,test_pred)
     print 'test data recall score: ',recall_score(y,test_pred)
 
-
-
-
-
-
 def plot_distribution_by_churn(df,col):
     # fig,axes = plt.subplots(1,2,figsize=(8,5))
     # axes[0].hist(df[col][df['churn'] == 0],label='not churn')
@@ -145,7 +140,6 @@ def plot_cats(df):
     print '-'*50
     plot_category(df,'luxury_car_user')
     print '-'*50
-
 
 
 if __name__ == '__main__':
